@@ -58,16 +58,17 @@ if (num1 === num2) {
 } else {    
     console.log("distinto");
 } 
+*/
 
 //concat++;  //aumenta
 //concat--;  //disminuye
+
 
 let numtexto ="456";
 let numReal = Number.parseInt(numtexto);
 
 if ( Number.isInteger(numtexto)) {
-    console.log("es numero");
+    console.log("es Numero");
 } else {
     console.log("es texto");
 }
- */
