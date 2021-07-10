@@ -1,0 +1,26 @@
+{
+  "name": "apirestnode",
+  "version": "1.0.0",
+  "description": "Curso ApiRestNode VG",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amatusl/ApiRestNode.git"
+  },
+  "author": "Alejandro Matus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amatusl/ApiRestNode/issues"
+  },
+  "homepage": "https://github.com/amatusl/ApiRestNode#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.11"
+  }
+}
